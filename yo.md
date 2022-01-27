@@ -1,19 +1,3 @@
-Hola soy **Fabián Gil**
-
-
-
-
-
-
-
-
-Soy *estadístico* y Bioestadístico
-
-
-
-
-
-
 ## **Natalie Pinto B**
 
 Hola, mi nombre es **Natalie Pinto B**
